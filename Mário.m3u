@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="globo" tvg-logo="" group-title="BRAZIL",[BR]
-https://reidoscanais.tv/embed/?id=globosp-globosaopaulo.m3u8
+https://reidoscanais.tv/embed/?id=globosp-globosaopaulo.m3u
 #EXTINF:-1 tvg-id="" tvg-name="sbt" tvg-logo="" group-title="BRAZIL",[BR]
-https://reidoscanais.tv/embed/?id=sbt.m3u8
+https://reidoscanais.tv/embed/?id=sbt.m3u
