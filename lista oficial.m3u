@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="sbt" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="aberto",3ABN aberto
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="grande natal" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="aberto",3ABN aberto
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
